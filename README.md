@@ -1,7 +1,7 @@
 # Backend Capstone Epicode
 
 ## 🔗 Repository Correlati
-[Frontend React](https://github.com/tuo-utente/tuo-repo-react) - Il frontend realizzato con React per questo progetto
+[Frontend React](https://github.com/andreagioelepiazza12/university.git) - Il frontend realizzato con React per questo progetto
 
 ## Descrizione
 Progetto Spring Boot per il corso Epicode.
